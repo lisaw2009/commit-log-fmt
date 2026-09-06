@@ -1,0 +1,8 @@
+[package]
+name = "commit-log-fmt"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Streaming validator and pretty printer for git's raw commit log format"
+
+[dependencies]
